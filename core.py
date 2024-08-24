@@ -209,9 +209,10 @@ def compute_combi_coeff_Trie(bond_permute, A_site_combis, Z_sites, A_sites):
 
     Z_fixed_combi_sum = 0
     
+    """
     for A_site_combi in A_site_combis:
         print(A_site_combi)
-    quit()
+    """
     for A_site_combi in A_site_combis:
         tot_energy_factor, tot_spin_factor = trie.insert_and_compute(A_site_combi, Z_sites, A_sites, combi_propagate)
 

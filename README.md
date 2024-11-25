@@ -8,7 +8,7 @@ in the anisotropic limit. The effective Hamiltonian as per perturbation theory i
 
 $$H_{\text {eff }}=\sum_{n=1}^{\infty} P V\left(\frac{\mathbb{I}-P}{E_0-\mathcal{H}_0} V\right)^{n-1} P,$$
 
-where $n$ refers to the order in the expansion of $H_{\text {eff }}$, and $P$ is a projection operator onto the subspace spanned by the ground states of $H_0$. In the case of integer spins, the lowest-order ($4S^{\textrm{th}}$) non-trivial effective Hamitonian is given by 
+where $n$ refers to the order in the expansion of $H_{\text {eff }}$, and $P$ is a projection operator onto the subspace spanned by the ground states of $H_0$. In the case of half integer spins, the lowest-order ($8S^{\textrm{th}}$) non-trivial effective Hamitonian is given by 
 
 $$H_{\text {eff }} = J_{\text {eff }} \sum_i\sigma_i^y(\mathrm{L})\sigma_i^z(\mathrm{U})\sigma_i^y(\mathrm{R})\sigma_i^z(\mathrm{D}),$$
 

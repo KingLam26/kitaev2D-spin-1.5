@@ -1,4 +1,4 @@
-# Integer-spin-S Kitaev 2D Honeycomb Model
+# Half-Integer-spin-S Kitaev 2D Honeycomb Model
 
 We consider the half-integer-spin-S Kitaev 2D Honeycomb Model defined by 
 
